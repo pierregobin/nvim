@@ -1,0 +1,18 @@
+  ~/.config.starter/nvim
+    lua
+   │  config
+   │ │  autocmds.lua
+   │ │  keymaps.lua
+   │ │  lazy.lua
+   │ └  options.lua
+   └  plugins
+     │  example.lua                   󰄱 
+     └  git.lua                         
+    LICENSE
+    README.md
+    init.lua
+    lazy-lock.json                     󰄱 
+   * lazygit                             
+    lazyvim.json                       󰄱 
+    stylua.toml
+   (4 hidden items)
